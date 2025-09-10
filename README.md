@@ -87,17 +87,12 @@
 ---
 
 ## 🐍 Contribution Snake
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br/>
-  <sub>If the SVG doesn’t render, here’s a <a href="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.gif">GIF fallback</a>.</sub>
- </p>
-<!-- markdownlint-enable MD033 -->
+
+[![Snake workflow status](https://github.com/Rafat-Pantho/Rafat-Pantho/actions/workflows/snake.yml/badge.svg)](https://github.com/Rafat-Pantho/Rafat-Pantho/actions/workflows/snake.yml)
+
+![Snake animation (light)](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation (dark)](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation (GIF fallback)](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.gif)
 
 ---
 
