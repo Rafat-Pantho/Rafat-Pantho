@@ -1,4 +1,3 @@
-
 # 👋 Hey, I'm Rafat Abdullah Pantho
 
 - 🎓 **CSE BSc Student** at [Islamic University of Technology](https://iutoic-dhaka.edu/)
@@ -23,12 +22,16 @@
 ---
 
 ## 📌 Featured Projects
-
-🔹 [Almost-basic-calculator](https://github.com/Rafat-Pantho/Almost-basic-calculator) – A simple calculator project
-🔹 [EID-WISH](https://github.com/Rafat-Pantho/EID-WISH) – A festive wish app
-🔹 [localjudge-for-windows](https://github.com/Rafat-Pantho/localjudge-for-windows) – Local judge for competitive programming
-🔹 [seccond-serve-server-py](https://github.com/Rafat-Pantho/seccond-serve-server-py) – Python server project
-🔹 [secondserve-server-py](https://github.com/Rafat-Pantho/secondserve-server-py) – Another server implementation
+<!-- markdownlint-disable MD033 -->
+<ul style="list-style: none; padding-left: 0;">
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/Almost-basic-calculator">Almost-basic-calculator</a> – A simple calculator project</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/EID-WISH">EID-WISH</a> – A festive wish app</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/localjudge-for-windows">localjudge-for-windows</a> – Local judge for competitive programming</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/seccond-serve-server-py">seccond-serve-server-py</a> – Python server project</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/secondserve-server-py">secondserve-server-py</a> – Another server implementation</li>
+  
+</ul>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -39,7 +42,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 <!-- markdownlint-disable MD033 -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafat-Pantho&show_icons=true&theme=tokyonight" alt="GitHub stats card" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Pantho&theme=tokyonight" alt="GitHub contribution streak card" />
@@ -50,7 +55,9 @@
 ---
 
 ## 🌐 Connect with Me
+
 <!-- markdownlint-disable MD033 -->
+
 <p align="center">
   <a href="mailto:rafatpantho@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/rafat.pantho"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -62,7 +69,9 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <!-- markdownlint-disable MD033 -->
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
