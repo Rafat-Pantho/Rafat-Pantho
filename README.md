@@ -34,7 +34,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rafat-Pantho&theme=tokyonight&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rafat-Pantho&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -85,7 +85,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Rafat-Pantho/Rafat-Pantho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.gif)
 
 ---
 
