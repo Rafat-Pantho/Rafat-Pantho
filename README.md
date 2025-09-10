@@ -39,34 +39,37 @@
 ---
 
 ## 📊 GitHub Stats
-
+<!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafat-Pantho&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Pantho&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafat-Pantho&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafat-Pantho&show_icons=true&theme=tokyonight" alt="GitHub stats card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Pantho&theme=tokyonight" alt="GitHub contribution streak card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafat-Pantho&layout=compact&theme=tokyonight" alt="Top languages card" />
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
 ## 🌐 Connect with Me
-
+<!-- markdownlint-disable MD033 -->
 <p align="center">
-  <a href="mailto:rafatpantho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rafat.pantho"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/open_book_4425"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rafat-abdullah-pantho-a38604345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rafatpantho@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rafat.pantho"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/open_book_4425"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafat-abdullah-pantho-a38604345/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
 ## 🛠️ Tech Stack
-
+<!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -84,8 +87,17 @@
 ---
 
 ## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.gif)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/>
+  <sub>If the SVG doesn’t render, here’s a <a href="https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.gif">GIF fallback</a>.</sub>
+ </p>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
