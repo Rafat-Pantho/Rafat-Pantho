@@ -1,15 +1,15 @@
 
 # 👋 Hey, I'm Rafat Abdullah Pantho
 
-🎓 **CSE BSc Student** at [Islamic University of Technology](https://iutoic-dhaka.edu/)
-📍 Dhaka, Bangladesh
-💻 Passionate about **Open Source, Game Development, and Self Projects**
+- 🎓 **CSE BSc Student** at [Islamic University of Technology](https://iutoic-dhaka.edu/)
+- 📍 Dhaka, Bangladesh
+- 💻 Passionate about **Open Source, Game Development, and Self Projects**
 
 ---
 
 ## ✨ Dynamic Intro
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Hey!+I'm+Rafat+Pantho;CSE+Student+%7C+Open+Source+Enthusiast;Game+Dev+%7C+Self+Project+Builder;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&duration=4000&pause=1200&lines=Hey!+I'm+Rafat+Pantho;CSE+Student+%7C+Open+Source+Enthusiast;Game+Dev+%7C+Self+Project+Builder;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
@@ -90,9 +90,7 @@
 
 [![Snake workflow status](https://github.com/Rafat-Pantho/Rafat-Pantho/actions/workflows/snake.yml/badge.svg)](https://github.com/Rafat-Pantho/Rafat-Pantho/actions/workflows/snake.yml)
 
-![Snake animation (light)](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation (dark)](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation (GIF fallback)](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Rafat-Pantho/Rafat-Pantho/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -107,8 +105,12 @@
 ## 🌀 Fun Counter
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rafat-Pantho&label=Profile%20Views&color=blue&style=for-the-badge)
+
 ![GitHub followers](https://img.shields.io/github/followers/Rafat-Pantho?style=for-the-badge&color=brightgreen)
+
 ![GitHub stars](https://img.shields.io/github/stars/Rafat-Pantho?style=for-the-badge&color=yellow)
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRafat-Pantho&query=%24.public_repos&label=Public%20Repos&color=orange&style=for-the-badge)
 
 ---
 
