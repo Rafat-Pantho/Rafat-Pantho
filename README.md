@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rafat Abdullah Pantho
 
-- 🎓 **CSE BSc Student** at [Islamic University of Technology](https://iutoic-dhaka.edu/)
+- 🎓 **CSE Student** at [Islamic University of Technology](https://iutoic-dhaka.edu/)
 - 📍 Dhaka, Bangladesh
 - 💻 Passionate about **Open Source, Game Development, and Self Projects**
 
