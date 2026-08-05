@@ -1,35 +1,27 @@
-# 👋 Hey, I'm Rafat Abdullah Pantho
+# Rafat Abdullah Pantho
 
 - 🎓 **CSE Student** at [Islamic University of Technology](https://iutoic-dhaka.edu/)
 - 📍 Dhaka, Bangladesh
-- 💻 Passionate about **Open Source, Game Development, and Self Projects**
+- 💻 Interested in **Applied AI, Full-Stack Development, and Open Source**
 
 ---
 
-## ✨ Dynamic Intro
+## About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&duration=4000&pause=1200&lines=Hey!+I'm+Rafat+Pantho;CSE+Student+%7C+Open+Source+Enthusiast;Game+Dev+%7C+Self+Project+Builder;Always+Learning+New+Things!)](https://git.io/typing-svg)
-
----
-
-## 🌟 About Me
-
-- 💡 Always exploring **Python, Java, C++, C**
-- 🚀 Currently contributing to **open source** and creating **small fun projects**
-- ✍️ Hobbies: Writing stories & poems | Brainstorming project ideas
-- 💭 Favorite quote: *"Never run the same code twice in hope of a different outcome."*
+- Currently pursuing a B.Sc. in Computer Science and Engineering, focused on full-stack development and applied AI
+- Comfortable across **Python, Java, C++, and C**
+- Active in competitive programming and hackathons in my spare time
 
 ---
 
 ## 📌 Featured Projects
 <!-- markdownlint-disable MD033 -->
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔹 <a href="https://github.com/Rafat-Pantho/Almost-basic-calculator">Almost-basic-calculator</a> – A simple calculator project</li>
-  <li>🔹 <a href="https://github.com/Rafat-Pantho/EID-WISH">EID-WISH</a> – A festive wish app</li>
-  <li>🔹 <a href="https://github.com/Rafat-Pantho/localjudge-for-windows">localjudge-for-windows</a> – Local judge for competitive programming</li>
-  <li>🔹 <a href="https://github.com/Rafat-Pantho/seccond-serve-server-py">seccond-serve-server-py</a> – Python server project</li>
-  <li>🔹 <a href="https://github.com/Rafat-Pantho/secondserve-server-py">secondserve-server-py</a> – Another server implementation</li>
-  
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/VisionCart">VisionCart</a> – Visual inventory management system powered by a vision-language model (Gemma)</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/my-pocket-buddy">My Pocket Buddy</a> – Cross-platform app running a local LLM entirely on-device</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/ML-Banglish-co-training-prototype">PMVC-WNM</a> – Co-training prototype for Banglish sentiment classification</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/video-downloader">Video Downloader</a> – Cross-platform desktop app (Tauri + Rust) with published releases</li>
+  <li>🔹 <a href="https://github.com/Rafat-Pantho/localjudge-for-windows">localjudge-for-windows</a> – Offline judge for practicing competitive programming</li>
 </ul>
 <!-- markdownlint-enable MD033 -->
 
@@ -60,8 +52,6 @@
 
 <p align="center">
   <a href="mailto:rafatpantho@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rafat.pantho"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/open_book_4425"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rafat-pantho/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <!-- markdownlint-enable MD033 -->
@@ -88,13 +78,6 @@
 
 ---
 
-## 🌀 Fun Section
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
 [![Snake workflow status](https://github.com/Rafat-Pantho/Rafat-Pantho/actions/workflows/snake.yml/badge.svg)](https://github.com/Rafat-Pantho/Rafat-Pantho/actions/workflows/snake.yml)
@@ -103,7 +86,7 @@
 
 ---
 
-## 🚀 What’s Next?
+## 🚀 What's Next
 
 - 🌱 Learning **Machine Learning & AI**
 - 🕹️ Building more **Construct 3 Games**
@@ -111,15 +94,11 @@
 
 ---
 
-## 🌀 Fun Counter
-
-![Profile views](https://komarev.com/ghpvc/?username=Rafat-Pantho&label=Profile%20Views&color=blue&style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/Rafat-Pantho?style=for-the-badge&color=brightgreen)
-
-![GitHub stars](https://img.shields.io/github/stars/Rafat-Pantho?style=for-the-badge&color=yellow)
-
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRafat-Pantho&query=%24.public_repos&label=Public%20Repos&color=orange&style=for-the-badge)
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Rafat-Pantho&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rafat-Pantho?style=for-the-badge&color=brightgreen" />
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRafat-Pantho&query=%24.public_repos&label=Public%20Repos&color=orange&style=for-the-badge" />
+</p>
 
 ---
 

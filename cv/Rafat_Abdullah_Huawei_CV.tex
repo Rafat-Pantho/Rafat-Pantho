@@ -1,0 +1,106 @@
+\documentclass[10.5pt,a4paper]{article}
+
+\usepackage[margin=0.75in]{geometry}
+\usepackage{mathptmx}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{tabularx}
+
+\definecolor{accent}{HTML}{8C1D18}
+
+\pagestyle{empty}
+
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0em}{}[\vspace{-0.3em}{\color{accent}\hrule height 0.8pt}\vspace{0.4em}]
+\titlespacing{\section}{0pt}{0.8em}{0.3em}
+
+\setlist[itemize]{leftmargin=1.1em, itemsep=1pt, topsep=1pt, parsep=0pt}
+
+\newcommand{\heading}[2]{%
+  \noindent\textbf{#1} \hfill #2\par
+}
+
+\begin{document}
+
+% ---------- HEADER ----------
+\begin{center}
+  {\Huge \bfseries Rafat Abdullah}\\[0.4em]
+  Dhaka, Bangladesh \;\textbar\; 01715138888 \;\textbar\; \href{mailto:rafatabdullah4425@gmail.com}{rafatabdullah4425@gmail.com}\\[0.2em]
+  \href{https://www.linkedin.com/in/rafat-pantho/}{linkedin.com/in/rafat-pantho} \;\textbar\; \href{https://github.com/Rafat-Pantho}{github.com/Rafat-Pantho}
+\end{center}
+
+% ---------- OBJECTIVE ----------
+\section*{Objective}
+Computer Science undergraduate seeking an internship at Huawei Technologies Bangladesh to apply hands-on
+experience in software development, applied AI, and systems-level programming to real-world engineering
+problems, while growing within a large-scale technology organization.
+
+% ---------- EDUCATION ----------
+\section*{Education}
+\heading{Islamic University of Technology (IUT), Gazipur, Bangladesh}{Expected Graduation: 2027}
+B.Sc. in Computer Science and Engineering (CSE) \hfill Currently in 3rd Year, 2nd Semester\\
+CGPA: 2.75 / 4.00
+
+% ---------- SKILLS ----------
+\section*{Technical Skills}
+\textbf{Programming Languages:} Python, C, C++\\
+\textbf{Database Compatibility:} MySQL, Oracle, MongoDB, PostgreSQL
+
+% ---------- PROJECTS ----------
+\section*{Projects}
+
+\heading{VisionCart --- Visual Inventory Management System}{\href{https://github.com/Rafat-Pantho/VisionCart}{GitHub}}
+\textit{Python, FastAPI, SQLite/SQLAlchemy, Google GenAI SDK (Gemma vision-language model)}
+\begin{itemize}
+  \item Built a full-stack system that replaces manual shelf counting: a photo of a shelf is analyzed and
+        reconciled against a live inventory database in real time.
+  \item Integrated a vision-language model (Gemma) via Google's GenAI SDK to detect products and count units
+        directly from images, automatically flagging low-stock and out-of-stock items.
+  \item Designed a FastAPI backend with a SQLAlchemy-backed database and a responsive vanilla JS/HTML/CSS
+        dashboard (live KPIs, search/filter/sort, light \& dark themes); deployed live on Render.
+\end{itemize}
+
+\heading{My Pocket Buddy --- On-Device AI Companion App}{\href{https://github.com/Rafat-Pantho/my-pocket-buddy}{GitHub}}
+\textit{TypeScript, React Native, Expo, llama.rn (on-device LLM inference), MMKV}
+\begin{itemize}
+  \item Built a cross-platform (iOS/Android) mobile app that runs a local LLM entirely on-device via
+        \texttt{llama.rn} (GGUF models, CPU-only inference) for private, offline AI chat with no cloud API
+        dependency.
+  \item Designed a hybrid context-injection system for the chat engine: a sliding window of recent turns
+        plus regex-triggered full-history recall, so the AI companion can reference earlier conversations.
+  \item Implemented a voice-activated alarm that listens via microphone to detect when the user wakes up and
+        dismiss it automatically, alongside a stats dashboard and an AI-generated exam-practice screen.
+\end{itemize}
+
+\heading{PMVC-WNM --- Banglish Sentiment Classification (Co-training Prototype)}{\href{https://github.com/Rafat-Pantho/ML-Banglish-co-training-prototype}{GitHub}}
+\textit{Python, scikit-learn --- Course project, CSE 4622 Machine Learning Lab, IUT}
+\begin{itemize}
+  \item Implemented a two-view co-training pipeline (character n-gram SVM + phonetic-encoding logistic
+        regression) to classify sentiment in Banglish (Romanized Bangla-English code-mixed) text as a
+        lightweight alternative to deep learning.
+  \item Designed a rule-based phonetic encoder to normalize inconsistent Romanized Bangla spellings (e.g.
+        \textit{khacchi} / \textit{khacci} / \textit{khachi}) into shared phonetic codes.
+  \item Added a weakly supervised noise model that down-weights unreliable pseudo-labels using cross-view
+        disagreement, aiming for competitive accuracy with no GPU and orders of magnitude fewer parameters
+        than a deep-learning baseline.
+\end{itemize}
+
+\heading{Local Judge for Windows --- Offline Competitive Programming Judge}{\href{https://github.com/Rafat-Pantho/localjudge-for-windows}{GitHub}}
+\textit{Python, C++, JavaScript}
+\begin{itemize}
+  \item Built a local judge that compiles and runs Python/C++ submissions against test cases under
+        configurable time and memory limits, without depending on any Linux-only tooling.
+  \item Implemented real-time process time/memory tracking and verdict reporting (Accepted, Wrong Answer,
+        Runtime Error, Time Limit Exceeded), mirroring the behavior of an online judge for local, offline
+        practice on Windows.
+\end{itemize}
+
+% ---------- ACHIEVEMENTS ----------
+\section*{Achievements}
+\begin{itemize}
+  \item \textbf{Competitive Programming:} Codeforces rating 885 (handle: \href{https://codeforces.com/profile/NebulaKnight}{NebulaKnight}); selected for the NHSPC national round twice
+  \item \textbf{Hackathons:} IUT-RS Hackathon; Build with Gemma --- ML, AI, Deep Learning \& NLP Community (Kaggle)
+\end{itemize}
+
+\end{document}
